@@ -1,0 +1,18 @@
+{
+  "template_version": "1.0.0",
+  "review": {
+    "id": "",
+    "title": "",
+    "question": "",
+    "type": "",
+    "registration_url": "",
+    "protocol_version": ""
+  },
+  "team": [],
+  "analysis": {
+    "enabled": false,
+    "module": "unconfigured",
+    "plan_approved_by": "",
+    "plan_approved_date": ""
+  }
+}

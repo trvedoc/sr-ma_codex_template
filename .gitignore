@@ -1,0 +1,23 @@
+# Credentials and local source documents
+.env
+.env.*
+!.env.example
+fulltext/*
+!fulltext/README.md
+# Generated results are retained locally or attached to a release
+outputs/*
+!outputs/README.md
+work/*
+!work/.gitkeep
+.quarto/
+**/*_cache/
+**/*_files/
+.Rhistory
+.RData
+.Ruserdata
+renv/library/
+renv/staging/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store

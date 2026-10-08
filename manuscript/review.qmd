@@ -1,0 +1,36 @@
+---
+title: "[FILL] Systematic review and meta-analysis"
+author: "[FILL]"
+bibliography: references.bib
+format:
+  html:
+    toc: true
+  docx: default
+execute:
+  echo: false
+---
+
+# Abstract
+[FILL using the applicable reporting checklist.]
+
+# Introduction
+[FILL rationale, existing evidence, and objectives.]
+
+# Methods
+[FILL registration/protocol, eligibility, searches, selection, data collection,
+risk of bias, certainty, synthesis methods, and AI use/validation.]
+
+# Results
+[FILL study selection, full-text exclusions, characteristics, bias assessments,
+individual results, syntheses, sensitivity analyses, and certainty.]
+Cite generated tables/figures from the selected run in outputs/runs/.
+Keep effect measures, analysis scales, and display scales explicit.
+
+# Discussion
+[FILL principal findings, limitations of evidence and review, applicability,
+implications, and conclusions supported by the results.]
+
+# Other information
+[FILL funding, conflicts, amendments, data/code availability, and contributions.]
+
+# References

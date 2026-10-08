@@ -1,0 +1,19 @@
+{
+  "run_id": "",
+  "started_at_utc": "",
+  "task": "",
+  "provider": "",
+  "model": "",
+  "model_version": "",
+  "model_version_available": false,
+  "settings": {},
+  "prompt_file": "prompt.txt",
+  "output_file": "output.json",
+  "source_ids": [],
+  "source_file_hashes": {},
+  "verification_status": "pending",
+  "verified_by": "",
+  "verified_date": "",
+  "discrepancies": [],
+  "resolution": ""
+}
